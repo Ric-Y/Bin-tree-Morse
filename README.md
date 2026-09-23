@@ -1,3 +1,9 @@
+# Estudantes
+
+* Ricardo M. Yomura
+* Nicolas Letti
+* José Eduardo
+
 # Árvore Binária de Morse
 
 Projeto desenvolvido em Java que utiliza uma árvore binária para armazenar e consultar códigos Morse.
@@ -37,9 +43,3 @@ O projeto possui:
 * `arvoreBinariaMorse`: responsável pela criação, inserção e busca na árvore.
 * `inserirTudo`: adiciona as letras e números em Morse.
 * `ARVORE_BIN`: classe principal responsável pela execução do programa.
-
-## Tecnologias
-
-* Java
-* Estrutura de dados: Árvore Binária
-* Código Morse
